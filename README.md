@@ -32,3 +32,7 @@ Working in a team of 3, performed predictive analysis of penguin species in Anta
 8) Algorithmic trading project 
 
 Created a python script that will accept the value of your portfolio and determine the number of stocks that can be bought for each constituent of the S&P 500 index fund for an equal weight version of the index. For this I used IEX cloud API token and performed batch API calls to extract relevant data and customized the data into excel files using xlsxwriter library in python for better visualization. 
+
+9) Lattice Boltzmann Fluid Simulation
+
+Created a python script to simulate the lattice Boltzmann method for fluid flow using navier stokes equation. Used numpy and matplotlib to generate the same using help from online resources.
